@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+p{
+    font-size: 18px;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 700px;
+    /* padding: 50px; */
+
+    /* border: 1px solid black; */
+}
+td{
+    padding: 25px;
+    border: 1px solid black;
+}
+caption{
+    text-align: right;
+    caption-side: bottom;
+    padding: 10px 0;
+}
